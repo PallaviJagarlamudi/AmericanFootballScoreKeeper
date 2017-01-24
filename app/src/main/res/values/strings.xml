@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">AmericanFootballScoreKeeper</string>
+    <string name="teamA_name">Chicago Bears</string>
+    <string name="teamB_name">Detroit Lions</string>
+    <string name="teamA_short_name">CB</string>
+    <string name="teamB_short_name">DL</string>
+    <string name="quarter">Quarter : </string>
+    <string name="zero_score">0</string>
+    <string name="q_header">Teams\\Quarter#</string>
+    <string name="one_constant">1</string>
+    <string name="two_constant">2</string>
+    <string name="three_constant">3</string>
+    <string name="four_constant">4</string>
+    //Button text
+    <string name="touch_down">+6 Points</string>
+    <string name="field_goal">+3 Points</string>
+    <string name="twopoint_safety">+2 Points</string>
+    <string name="extra_point">Extra Point</string>
+    <string name="reset">Reset</string>
+    <string name="timeup">Time Up</string>
+
+
+</resources>
